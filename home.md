@@ -7,6 +7,6 @@ In de eerste week waren wij nog bezig met het orienteren op de minor. Het begon 
 
 ![Combined frames csv](/images/combined_frames_csv.png)
 
-*De data die wij hier uit kregen was een grote csv met diepte waardes van elke pixel op de foto zoals hierboven. *
+*De data die wij hier uit kregen was een grote csv met diepte waardes van elke pixel op de foto zoals hierboven.*
 
 
