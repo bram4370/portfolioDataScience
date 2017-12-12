@@ -42,3 +42,5 @@ Voor de Kinect camera zijn er ook veel mogelijke libraries beschikbaar om mee te
 Vanaf ongeveer week 4/5 ben ik een stuk minder vaak en lang op school geweest aangezien ik door overspannenheid veel minder kon werken. Dit was gelukkig over na de herfstvakantie maar dit heeft mij de komende paar weken wel veel tegengehouden. In week 5 heb ik dan ook veel minder gedaan dan dat ik had gewild. Deze week zijn wij in het atrium gaan staan met de Kinect camera en een aantal normale cameras om mensen op te nemen. Wij hadden een opstelling gemaakt vanuit waar wij de mensen konden filmen met de Kinect maar ook met de normale cameras om te kunnen valideren dat de resultaten die wij kregen van de Kinect ook klopten. De testopstelling zag eruit als volgt:
 
 <img src=/images/opstelling.jpg width="500" height="500">
+
+*De kinect camera zit vooraan. Die neemt een dieptebeeld op van voren en de Joint punten. Aan de onderkant en zijkant staat ook en camera die gebruikt worden voor valideren*
