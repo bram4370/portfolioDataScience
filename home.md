@@ -31,4 +31,8 @@ Door de ontdekkingen die wij hebben gedaan van de tracking software en de nauwke
 
 Voor de Kinect camera zijn er ook veel mogelijke libraries beschikbaar om mee te werken. Wij hebben zitten kijken naar 2 alternatieven voor het opnemen en het tracken. Ten eerste hadden wij de officiële Microsoft SDK en daarnaast hadden wij ook nog een open source versie genaamd Freenect voor het gebruiken van de camera in combinatie met OpenNI2 en NITE voor het tracken van de joints. 
 
-![Freenect](/images/)
+![Freenect](/images/Freenect_good_tracking.png)
+*Freenect tracking*
+
+![Windows SDK](/images/Capture2.png)
+*Kinect SDK*
