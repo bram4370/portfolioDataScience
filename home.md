@@ -3,7 +3,7 @@
 
 ### Week 1 data science
 
-In de eerste week waren wij nog bezig met het orienteren op de minor. Het begon met het rondkijken op het internet naar bestaande papers over de mogelijkheden van diepte camera’s. Daarnaast gingen wij ons bezig houden met het werkend krijgen van de Realsense camera die wij tot onze beschikking hadden. Er was meer support voor linux dan voor Windows voor de realsense camera en aangezien ik de enige was met Ubuntu op de laptop was ik de aangewezen persoon om de camera werkend te krijgen. 
+In de eerste week waren wij nog bezig met het orienteren op de minor. Het begon met het rondkijken op het internet naar bestaande papers over de mogelijkheden van diepte cameras. Daarnaast gingen wij ons bezig houden met het werkend krijgen van de Realsense camera die wij tot onze beschikking hadden. Er was meer support voor linux dan voor Windows voor de realsense camera en aangezien ik de enige was met Ubuntu op de laptop was ik de aangewezen persoon om de camera werkend te krijgen. 
 
 <img src=/images/Printscreen_camera.png width="600" he3ght="300">
 
@@ -37,3 +37,8 @@ Voor de Kinect camera zijn er ook veel mogelijke libraries beschikbaar om mee te
 *Freenect tracking*
 *Kinect SDK*
 
+### Week 5 data science
+
+Vanaf ongeveer week 4/5 ben ik een stuk minder vaak en lang op school geweest aangezien ik door overspannenheid veel minder kon werken. Dit was gelukkig over na de herfstvakantie maar dit heeft mij de komende paar weken wel veel tegengehouden. In week 5 heb ik dan ook veel minder gedaan dan dat ik had gewild. Deze week zijn wij in het atrium gaan staan met de Kinect camera en een aantal normale cameras om mensen op te nemen. Wij hadden een opstelling gemaakt vanuit waar wij de mensen konden filmen met de Kinect maar ook met de normale cameras om te kunnen valideren dat de resultaten die wij kregen van de Kinect ook klopten. De testopstelling zag eruit als volgt:
+
+<img src=/images/testopstelling.png widht="500" height="500">
