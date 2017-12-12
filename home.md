@@ -29,4 +29,6 @@ Daarnaast hebben wij zitten zoeken naar een manier om de joint van mensen te tra
 
 Door de ontdekkingen die wij hebben gedaan van de tracking software en de nauwkeurigheid van de Realsense camera hebben wij besloten om ook naar andere camera's te kijken. De bekendste camera en tevens degene die wij het meeste tegenkwamen in literatuur was de Microsoft Kinect camera. Na enig onderzoek vonden wij dat deze beter getest was dan de Realsense en dat de software hiervoor ook nog eens veel verder ontwikkeld was. Vandaar dat wij besloten hebben om een Kinect camera aan te schaffen en hiermee verder te gaan. 
 
-Voor de Kinect camera zijn er ook veel mogelijke libraries beschikbaar om mee te werken. 
+Voor de Kinect camera zijn er ook veel mogelijke libraries beschikbaar om mee te werken. Wij hebben zitten kijken naar 2 alternatieven voor het opnemen en het tracken. Ten eerste hadden wij de officiële Microsoft SDK en daarnaast hadden wij ook nog een open source versie genaamd Freenect voor het gebruiken van de camera in combinatie met OpenNI2 en NITE voor het tracken van de joints. 
+
+![Freenect](/images/)
