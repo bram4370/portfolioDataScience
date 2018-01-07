@@ -1,10 +1,15 @@
 # PORTFOLIO
 *Bram Slemmer, 14081563*
-Code
-Courses
-Opdrachten
-Presentaties
-Scrum
+
+[Code](Code)
+
+[Courses](Courses)
+
+[Opdrachten](Opdrachten)
+
+[Presentaties](Presentaties)
+
+[Scrum](Scrum)
 
 ### Week 1 data science
 
