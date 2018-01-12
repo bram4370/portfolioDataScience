@@ -1,7 +1,7 @@
 # PORTFOLIO
 *Bram Slemmer, 14081563*
 
-[Code](https://github.com/bram4370/portfolioDataScience/tree/master/Code)
+[Code](https://github.com/bram4370/portfolioDataScience/Code)
 
 [Courses](Courses)
 
