@@ -3,13 +3,13 @@
 
 [Code](https://github.com/bram4370/portfolioDataScience/tree/master/Code)
 
-[Courses](https://github.com/bram4370/portfolioDataScience/tree/master/Courses)
+[Courses](/Courses)
 
-[Opdrachten](Opdrachten)
+[Opdrachten](/portfolioDataScience/tree/master/Opdrachten)
 
 [Presentaties](Presentaties)
 
-[Scrum](Scrum)
+[Scrum](portfolioDataScience/tree/master/Opdrachten/Scrum)
 
 ### Week 1 data science
 
