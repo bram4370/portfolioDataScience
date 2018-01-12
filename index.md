@@ -3,7 +3,7 @@
 
 [Code](https://github.com/bram4370/portfolioDataScience/Code)
 
-[Courses](Courses)
+[Courses](https://github.com/bram4370/portfolioDataScience/Courses)
 
 [Opdrachten](Opdrachten)
 
