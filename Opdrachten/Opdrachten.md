@@ -7,7 +7,7 @@ Hierin staan de opdrachten en courses die wij moesten voltooien zoals coursera e
 ## Coursera
 ![coursera](/images/coursera.png)
 ## Scrum opdracht
-[scrum](/Opdrachten/Agile als scrum.pdf)
+[scrum](/Opdrachten/Scrum)
 ## Spark
 [spark](/Opdrachten/Spark)
 ## Exploratory data science
