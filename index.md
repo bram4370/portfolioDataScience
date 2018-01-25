@@ -62,3 +62,8 @@ Ik heb veel gewerkt aan het plotten van de verwerkte data. Met name aan de uitwi
 Daarnaast heb ik een aantal verschillende manieren om het lichaam te roteren en een aantal verschillende manieren om de uitwijking te meten naast elkaar gelegd in een presentatie om voor te leggen bij de arts in het LUMC om te vragen waar hij voorkeur aan had.
 
 - [verschillende grafieken naast elkaar](documents/P1-P2_verschillende_algoritmes_hoeken_elleboog.pdf){:target="_blank"}
+
+### Clustering
+Ik heb ook een tijd geprobeerd met clustering verschillende groepen mensen uit de data te verkrijgen. Hoewel ik wel een aantal mooi clusters gekregen heb kon ik helaas niet hiermee bepalen welke mensen nou schouderklachten hadden.
+
+- [Clustering](images/clustering.png)
