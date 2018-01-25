@@ -5,7 +5,7 @@
 In dit portfolio staat wat ik heb gedaan in het afgelopen half jaar in de Data Science minor.
 Hieronder staan uitgeschreven wat mijn bijdragen zijn geweest aan het project met daarnaast nog een link naar de verschillende opdrachten zoals coursera die we af moesten hebben.
 
-[Opdrachten](https://bram4370.github.io/portfolioDataScience/Opdrachten/Opdrachten)
+[Opdrachten](https://bram4370.github.io/portfolioDataScience/Opdrachten/Opdrachten){:target="_blank")
 
 ## Opstarten van het project
 
