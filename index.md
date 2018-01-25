@@ -66,4 +66,4 @@ Daarnaast heb ik een aantal verschillende manieren om het lichaam te roteren en 
 ### Clustering
 Ik heb ook een tijd geprobeerd met clustering verschillende groepen mensen uit de data te verkrijgen. Hoewel ik wel een aantal mooi clusters gekregen heb kon ik helaas niet hiermee bepalen welke mensen nou schouderklachten hadden.
 
-- [Clustering](images/clustering.png)
+![Clustering](images/clustering.png)
