@@ -1,15 +1,19 @@
 # PORTFOLIO
 *Bram Slemmer, 14081563*
 
-[Code](Code)
+## Leeswijzer
+In dit portfolio staat wat ik heb gedaan in het afgelopen half jaar in de Data Science minor.
+Hieronder staan verschillende kopjes met verwijzingen naar de verschillende onderdelen van mijn werkzaamheden.
 
-[Courses](Courses)
+[Code](https://github.com/bram4370/portfolioDataScience/tree/master/Code/code.md)
 
-[Opdrachten](Opdrachten)
+[Courses](https://github.com/bram4370/portfolioDataScience/tree/master/Courses)
 
-[Presentaties](Presentaties)
+[Opdrachten](https://github.com/bram4370/portfolioDataScience/tree/master/Opdrachten)
 
-[Scrum](Scrum)
+[Presentaties](https://github.com/bram4370/portfolioDataScience/tree/master/Presentaties)
+
+[Scrum](https://github.com/bram4370/portfolioDataScience/tree/master/Scrum)
 
 ### Week 1 data science
 
