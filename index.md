@@ -3,17 +3,15 @@
 
 ## Leeswijzer
 In dit portfolio staat wat ik heb gedaan in het afgelopen half jaar in de Data Science minor.
-Hieronder staan verschillende kopjes met verwijzingen naar de verschillende onderdelen van mijn werkzaamheden.
-
-[Code](https://bram4370.github.io/portfolioDataScience/Code/code)
-
-[Courses](https://bram4370.github.io/portfolioDataScience/Courses/courses)
+Hieronder staan uitgeschreven wat mijn bijdragen zijn geweest aan het project met daarnaast nog een link naar de verschillende opdrachten zoals coursera die we af moesten hebben.
 
 [Opdrachten](https://bram4370.github.io/portfolioDataScience/Opdrachten/Opdrachten)
 
-[Presentaties](https://bram4370.github.io/portfolioDataScience/Presentaties/presentaties)
+## Opstarten van het project
 
-[Scrum](https://bram4370.github.io/portfolioDataScience/Scrum/scrum)
+Bij het opstarten van het project heb ik onderzoek gedaan naar de technische domeinkennis over het tracken van mensen en het werken met de RealSense zr300 camera. In het vooronderzoek document heb ik een aantal links geplaats naar gevonden informatie.
+- [Vooronderzoek.pdf](documents/Aanpak_vooronderzoek.pdf){:target="_blank"}
+
 
 ### Week 1 data science
 
