@@ -50,3 +50,16 @@ Ik ben bij bijna alle opname momenten geweest voor het verkrijgen van de data. B
 * Opnames in het atrium.
 * Opnames in het zuiderpark.
 * Opnames in het lokaal zelf van mensen die op ons af kwamen als reactie op een oproep van ons.
+
+Daarnaast heb ik een bestand gemaakt met de mogelijke manieren waarop wij nog meer data konden verkrijgen.
+- [data verkrijgen](documents/Data_genereren.pdf){:target="_blank"}
+
+## Visualiseren van de data
+### Grafieken
+Ik heb veel gewerkt aan het plotten van de verwerkte data. Met name aan de uitwijking van de elleboog naar voren en naar achter bij de eerste oefening die wij mensen lieten doen. Dit was het zijdelings langs je lichaam omhoog bewegen van je armen naar het hoogste punt. Ik heb mijn grafiek gecombineerd met de grafiek van Laura. Hierin valt te zien op welk punt iemand uitwijkt bij de beweging.
+
+- [grafiek](images/grafiek.png)
+
+Daarnaast heb ik een aantal verschillende manieren om het lichaam te roteren en een aantal verschillende manieren om de uitwijking te meten naast elkaar gelegd in een presentatie om voor te leggen bij de arts in het LUMC om te vragen waar hij voorkeur aan had.
+
+- [verschillende grafieken naast elkaar](documents/P1-P2 verschillende algoritmes hoeken elleboog.pdf){:target="_blank"}
