@@ -39,12 +39,12 @@ De realsense SDK werd niet meer ontwikkeld dus zijn en was niet al te nauwkeurig
 
 <img src=/images/Freenect_good_tracking.png width="400" height="400"> 
 
-Uitendelijk zijn we verder gegaan met de officïele software van Microsoft omdat deze stabieler was en makkelelijker om mee te werken.
+Uitendelijk zijn we verder gegaan met de officïele software van Microsoft omdat deze stabieler was en makkelijker om mee te werken.
 
 ## Verkrijgen van de data
 
 Ik ben bij bijna alle opname momenten geweest voor het verkrijgen van de data. Bij sommige was stond ik erbij om te helpen en bij andere keren was ik degene die de laptop met de opname apparatuur bediende. Ik was bij de volgende opnames erbij:
 
--Opnames in het atrium.
--Opnames in het zuiderpark.
--Opnames in het lokaal zelf van mensen die op ons af kwamen als reactie op een oproep van ons.
+Opnames in het atrium.
+Opnames in het zuiderpark.
+Opnames in het lokaal zelf van mensen die op ons af kwamen als reactie op een oproep van ons.
