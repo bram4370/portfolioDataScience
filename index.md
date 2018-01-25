@@ -32,6 +32,8 @@ Het probleem wat wij hier hadden was dat de camera niet erg nauwkeurig leek te z
 
 ![Average greyscale image realsense](/images/Frame_average.png)
 
+Om de beelden die wij verkregen zo duidelijk mogelijk te krijgen hebben we ook veel verschillende opstellingen geprobeerd. Waaronder verschillende afstanden tot de camera, verschillende achtergronden en een verschillend aantal frames per seconde.
+
 Daarnaast hebben wij zitten zoeken naar een manier om de joint van mensen te tracken op de beelden die wij opnemen. Helaas was de SDK die beschikbaar was al enige tijd niet meer verder ontwikkeld en heeft Intel de ontwikkelink hiervan compleet stop gezet. Daarnaast waren er ook verder geen duidelijke oplossingen om dit te doen.
 
 ## Kinect vs Realsense
