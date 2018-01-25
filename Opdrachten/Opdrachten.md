@@ -8,4 +8,6 @@ Hierin staan de opdrachten en courses die wij moesten voltooien zoals coursera e
 
 ## Scrum opdracht
 
-## Bullshit
+## Spark
+
+## Exploratory data science
