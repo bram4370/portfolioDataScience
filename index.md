@@ -5,15 +5,15 @@
 In dit portfolio staat wat ik heb gedaan in het afgelopen half jaar in de Data Science minor.
 Hieronder staan verschillende kopjes met verwijzingen naar de verschillende onderdelen van mijn werkzaamheden.
 
-[Code](https://github.com/bram4370/portfolioDataScience/tree/master/Code/code.md)
+[Code](https://github.com/bram4370/portfolioDataScience/tree/master/Code/code)
 
-[Courses](https://github.com/bram4370/portfolioDataScience/tree/master/Courses)
+[Courses](https://github.com/bram4370/portfolioDataScience/tree/master/Courses/courses)
 
-[Opdrachten](https://github.com/bram4370/portfolioDataScience/tree/master/Opdrachten)
+[Opdrachten](https://github.com/bram4370/portfolioDataScience/tree/master/Opdrachten/Opdrachten)
 
-[Presentaties](https://github.com/bram4370/portfolioDataScience/tree/master/Presentaties)
+[Presentaties](https://github.com/bram4370/portfolioDataScience/tree/master/Presentaties/presentaties)
 
-[Scrum](https://github.com/bram4370/portfolioDataScience/tree/master/Scrum)
+[Scrum](https://github.com/bram4370/portfolioDataScience/tree/master/Scrum/scrum)
 
 ### Week 1 data science
 
