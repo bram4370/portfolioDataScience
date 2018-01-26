@@ -3,9 +3,9 @@
 Hierin staan de opdrachten en courses die wij moesten voltooien zoals coursera en bullshit.
 
 ## Datacamp
-![datacamp](/images/datacamp.png)
+![datacamp](datacamp.png)
 ## Coursera
-![coursera](/images/coursera.png)
+![coursera](coursera.png)
 ## Scrum opdracht
 [scrum](/Opdrachten/scrum)
 ## Spark
