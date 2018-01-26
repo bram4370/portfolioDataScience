@@ -18,7 +18,7 @@ Bij het opstarten van het project heb ik onderzoek gedaan naar de technische dom
 
 Ik heb in het begin veel gewerkt met de Intel camera.
 
-<img src=/images/Printscreen_camera.png width="600" he3ght="300">
+![Intel camera](/images/Printscreen_camera.png)
 
 *het eerste beeld wat ik kreeg was het beeld wat je hierboven ziet. Aan de rechterkant zie je het dieptebeeld wat wij kregen van het linkerbeeld*
 
@@ -41,7 +41,7 @@ Daarnaast hebben wij zitten zoeken naar een manier om de joint van mensen te tra
 ## Kinect vs Realsense
 De realsense SDK werd niet meer ontwikkeld dus zijn en was niet al te nauwkeurig dus wij hebben onderzoek gedaan naar alternatieve software en cameras. Ik heb zelf onderzoek gedaan naar software voor de Kinect camera. Ik heb hiervoor een open source versie alternatief voor de officïele Microsoft SDK gevonden namelijk Freenect. Daarnaast heb ik OpenNI2 en NITE gevonden. Dit zijn stukjes open source software die helpen met het tracken en identificeren van skeleten bij mensen voor de Kinect camera. Hieronder is een afbeelding van de tracking met behulp van voorgenoemde software.
 
-<img src=/images/Freenect_good_tracking.png width="400" height="400"> 
+[Freenect](/images/Freenect_good_tracking.png)
 
 Uitendelijk zijn we verder gegaan met de officïele software van Microsoft omdat deze stabieler was en makkelijker om mee te werken.
 
