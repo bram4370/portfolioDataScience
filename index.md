@@ -13,7 +13,7 @@ Hieronder staan uitgeschreven wat mijn bijdragen zijn geweest aan het project me
 ## Opstarten van het project
 
 Bij het opstarten van het project heb ik onderzoek gedaan naar de technische domeinkennis over het tracken van mensen en het werken met de RealSense zr300 camera. In het vooronderzoek document heb ik een aantal links geplaats naar gevonden informatie.
-- [Vooronderzoek.pdf](documents/Aanpak_vooronderzoek.pdf)
+- [Vooronderzoek.pdf](documents/Aanpak_vooronderzoek.pdf){:target='_blank'}
 ## Intel Realsense ZR300
 
 Ik heb in het begin veel gewerkt met de Intel camera.
