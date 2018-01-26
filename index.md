@@ -70,3 +70,11 @@ Daarnaast heb ik een aantal verschillende manieren om het lichaam te roteren en 
 Ik heb ook een tijd geprobeerd met clustering verschillende groepen mensen uit de data te verkrijgen. Hoewel ik wel een aantal mooi clusters gekregen heb kon ik helaas niet hiermee bepalen welke mensen nou schouderklachten hadden.
 
 ![Clustering](images/clustering.png)
+
+### Paper
+
+Voor de paper heb ik voornamelijk gewerkt aan de clustering en grafieken kopjes. Ik heb hier als een van de meeste mee gewerkt dus ik weet hier veel van. Daarnaast heb ik geholpen met het overeen krijgen van de grafieken en clusters die anderen aanvoerden voor de paper.
+
+### Hackaton
+
+Ook heb ik twee dagen mee gedaan aan de Big data/ Sensor hackaton van het CBS.
