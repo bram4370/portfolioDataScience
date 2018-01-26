@@ -9,6 +9,8 @@ Hieronder staan uitgeschreven wat mijn bijdragen zijn geweest aan het project me
 
 [Presentaties](https://bram4370.github.io/portfolioDataScience/Presentaties/Presentatie)
 
+[Code](https://bram4370.github.io/portfolioDataScience/Code/code)
+
 
 ## Opstarten van het project
 
