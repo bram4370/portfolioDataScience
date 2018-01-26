@@ -1,6 +1,6 @@
-# Opdrachten
+[Home](https://bram4370.github.io/portfolioDataScience)
 
-- [Home](https://bram4370.github.io/portfolioDataScience)
+# Opdrachten
 
 Hierin staan de opdrachten en courses die wij moesten voltooien zoals coursera en bullshit.
 
