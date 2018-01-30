@@ -14,3 +14,4 @@ Hierin staan de opdrachten en courses die wij moesten voltooien zoals coursera e
 [spark](/Opdrachten/spark)
 ## Exploratory data science
 [exploratory data science](/Opdrachten/ExploratoryDataAnalysis)
+
