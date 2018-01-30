@@ -11,7 +11,7 @@ Hierin staan de opdrachten en courses die wij moesten voltooien zoals coursera e
 ## Scrum opdracht
 [scrum](scrum)
 ## Spark
-[spark](https://github.com/bram4370/portfolioDataScience/tree/master/Opdrachten/spark)
+[spark](spark)
 ## Exploratory data science
-[exploratory data science](https://github.com/bram4370/portfolioDataScience/tree/master/Opdrachten/ExploratoryDataAnalysis)
+[exploratory data science](ExploratoryDataAnalysis)
 
