@@ -9,9 +9,9 @@ Hierin staan de opdrachten en courses die wij moesten voltooien zoals coursera e
 ## Coursera
 ![coursera](coursera.png)
 ## Scrum opdracht
-[scrum](/Opdrachten/scrum)
+[scrum](https://github.com/bram4370/portfolioDataScience/tree/master/Opdrachten/scrum)
 ## Spark
-[spark](/Opdrachten/spark)
+[spark](https://github.com/bram4370/portfolioDataScience/tree/master/Opdrachten/spark)
 ## Exploratory data science
-[exploratory data science](/Opdrachten/ExploratoryDataAnalysis)
+[exploratory data science](https://github.com/bram4370/portfolioDataScience/tree/master/Opdrachten/ExploratoryDataAnalysis)
 
